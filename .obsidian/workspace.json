@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux.md",
+                "file": "Операционные системы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "Операционные системы"
             }
           }
         ]
@@ -28,13 +28,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b792054d3061b7c6",
+            "id": "413ff87d62d7142e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Добрый день, это начальная страница!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Добрый день, это начальная страница!"
             }
           }
         ]
@@ -184,12 +188,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e4cf6e668c5e3737",
+  "active": "413ff87d62d7142e",
   "lastOpenFiles": [
-    "Операционные системы.md",
     "Linux.md",
-    "Добрый день, это начальная страница!.md",
     "Компьютерные сети/Сети.md",
+    "Добрый день, это начальная страница!.md",
+    "Операционные системы.md",
+    "link.md",
+    "README.md",
     "Компьютерные сети",
     "2025-07-25.md",
     "Без названия.canvas"

@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiFile",
+      "LiFolders",
+      "LiFolder"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "_resources": "LiFolder",
+  "Wiki": "LiFolders",
+  "Wiki/Компьютерные сети": "LiFolder",
+  "Wiki/Linux": "LiFolders",
+  "Wiki/Linux/Администрирование ОС": "LiFolder",
+  "Wiki/Linux/ОС": "LiFolder",
+  "Wiki/Linux/Bash": "LiFolder",
+  "Wiki/Linux/Monitoring": "LiFolder",
+  "Wiki/Linux/SSH": "LiFolder",
+  "Добрый день, это начальная страница!.md": "LiFile",
+  "README.md": "LiFile"
+}

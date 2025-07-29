@@ -4,43 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "fe0442653022bc80",
+        "id": "a525fd406ee99fed",
         "type": "tabs",
-        "dimension": 55.06634499396864,
         "children": [
           {
-            "id": "bb41843dab292077",
+            "id": "f9385227e5ef5133",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Linux/Linux.md",
+                "file": "Wiki/Linux/ОС/Операционные системы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "Операционные системы"
             }
           }
         ]
       },
       {
-        "id": "0ab4c5b43ab46fc2",
+        "id": "c7c61a5638373aa7",
         "type": "tabs",
-        "dimension": 44.933655006031366,
         "children": [
           {
-            "id": "d5719362ebdbb5c7",
+            "id": "c8e23ded504c5ac5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Добрый день, это начальная страница!.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Добрый день, это начальная страница!"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -100,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 222.5
   },
   "right": {
     "id": "0d97618aaf25275b",
@@ -116,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Добрый день, это начальная страница!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Добрый день, это начальная страница!"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -135,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Добрый день, это начальная страница!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Добрый день, это начальная страница!"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -164,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Добрый день, это начальная страница!.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Добрый день, это начальная страница!"
+              "title": "Структура"
             }
           },
           {
@@ -203,19 +194,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8579bd9e1b7bbcf9",
+  "active": "c8e23ded504c5ac5",
   "lastOpenFiles": [
+    "Wiki/Linux/ОС/Операционные системы.md",
+    "Добрый день, это начальная страница!.md",
+    "README.md",
     "Wiki/Linux/Linux.md",
-    "Wiki/Linux/Операционные системы.md",
+    "Wiki/Linux/SSH/homework ssh.md",
+    "Wiki/Linux/SSH/SSH.md",
+    "Wiki/Linux/ОС",
+    "Wiki/Linux/Администрирование ОС/Администрирование ОС.md",
+    "Wiki/Linux/Администрирование ОС",
+    "Wiki/Linux/SSH",
+    "Wiki/Linux/Bash",
+    "Wiki/Linux/Monitoring",
+    "Wiki/Linux/Bash/Bash.md",
+    "Wiki/Linux/Monitoring/Мониторинг системы.md",
+    "Безымянная Kanban-доска.md",
     "Wiki/Веб-сервисы.md",
     "Wiki/Linux",
-    "Добрый день, это начальная страница!.md",
     "Wiki/Ansible.md",
     "Wiki/Terraform.md",
     "Wiki/Vagarant.md",
     "Wiki",
     "Компьютерные сети/Без названия",
-    "README.md",
     "_resources",
     "Wiki/Компьютерные сети/Сети.md",
     "Без названия.canvas",

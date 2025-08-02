@@ -31,10 +31,14 @@
             "id": "c8e23ded504c5ac5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Wiki/Компьютерные сети/OSI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OSI"
             }
           }
         ]
@@ -196,6 +200,13 @@
   },
   "active": "c8e23ded504c5ac5",
   "lastOpenFiles": [
+    "Wiki/Компьютерные сети/IP.md",
+    "Wiki/Компьютерные сети/Сети.md",
+    "TCP IP/IP`.md",
+    "TCP IP",
+    "TCP/IP.md",
+    "TCP",
+    "Wiki/Компьютерные сети/OSI.md",
     "Wiki/Linux/ОС/Операционные системы.md",
     "Добрый день, это начальная страница!.md",
     "README.md",
@@ -218,11 +229,8 @@
     "Wiki/Vagarant.md",
     "Wiki",
     "Компьютерные сети/Без названия",
-    "_resources",
-    "Wiki/Компьютерные сети/Сети.md",
     "Без названия.canvas",
     "link.md",
-    "Wiki/Компьютерные сети",
     "2025-07-25.md"
   ]
 }
